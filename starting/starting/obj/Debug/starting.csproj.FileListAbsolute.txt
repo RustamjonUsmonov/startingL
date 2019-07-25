@@ -1,0 +1,7 @@
+C:\Users\RJ_DraGoN\source\repos\starting\starting\obj\Debug\starting.csprojAssemblyReference.cache
+C:\Users\RJ_DraGoN\source\repos\starting\starting\obj\Debug\starting.csproj.CoreCompileInputs.cache
+C:\Users\RJ_DraGoN\source\repos\starting\starting\bin\Debug\starting.exe.config
+C:\Users\RJ_DraGoN\source\repos\starting\starting\bin\Debug\starting.exe
+C:\Users\RJ_DraGoN\source\repos\starting\starting\bin\Debug\starting.pdb
+C:\Users\RJ_DraGoN\source\repos\starting\starting\obj\Debug\starting.exe
+C:\Users\RJ_DraGoN\source\repos\starting\starting\obj\Debug\starting.pdb
